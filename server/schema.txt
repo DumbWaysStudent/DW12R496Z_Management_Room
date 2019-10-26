@@ -1,0 +1,25 @@
+    Admin
+-id
+-email
+-username
+-password
+
+    Rooms
+-id
+-name
+
+    Customers
+-id
+-name
+-identity_number
+-phone
+-image###
+
+    Orders
+-id
+-id_customer
+-id_room
+-is_booked
+-duration
+-order_end_time
+
